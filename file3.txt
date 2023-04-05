@@ -1,0 +1,4 @@
+A.
+Ez egy string egy file-ban.
+Harmadik mondat.
+Masik mondat rendezeshez.
